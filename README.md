@@ -1,8 +1,8 @@
-# Medical Appointment Management System
+# E-Health Management System
 
 ## Overview
 
-The **Medical Appointment Management System** is a web application designed to help patients and doctors manage appointments efficiently. The system allows patients to book, view, update, or cancel appointments, provide their medical history, and access diagnoses and prescriptions. Doctors can manage their schedules, access patient information, provide diagnoses and prescriptions, and modify patient records. 
+The **E-Health Management System Management System** is a web application designed to help patients and doctors manage appointments efficiently. The system allows patients to book, view, update, or cancel appointments, provide their medical history, and access diagnoses and prescriptions. Doctors can manage their schedules, access patient information, provide diagnoses and prescriptions, and modify patient records. 
 
 ### Project Contributors:
 - **Kushank Pulipati** (kpuli@uic.edu)
